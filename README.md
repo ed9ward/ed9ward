@@ -1,9 +1,17 @@
 ### Hi there 👋
 
 <!--
-**ed9ward/ed9ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Edward. I'm Ukrainian, living in Wroclaw, Poland.
+I have a Master's degree in Computer Science in Ecology. 
+I am a QA engineer with 1,5 years of experience in manual quality assurance in outsourcing and product companies.
 
-Here are some ideas to get you started:
+I am good at influencing engineering-wide best practices within teams and across others for the full software development life cycle, including documentation, design, coding standards, code reviews, building, testing, deployment, and other operations as well as leading teams of 3-5 software engineers, coaching and mentoring less experienced developers and peers.
+
+I have the following outside-of-work achievements:
+
+An open source enthusiast being top 5.5K worldwide by GitHub accounts ranking.
+A recurring speaker on the largest Ukrainian IT community's podcast about DevOps with 65K+ subscribers on YouTube.
+An author of 15+ articles about software engineering on 3 different languages that have 325K+ views in total on Medium, DOU, and Habr (not under maintenance).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
