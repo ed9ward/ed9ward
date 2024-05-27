@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 My name is Edward.
+
 🎓 I have a Master's degree in Computer Science in Ecology.
+
 💻 I am a QA engineer with 2 years of experience in QA in both outsourcing and product companies.
+
 🔭 For the last half a year I have studied and worked in the AQA field using Cypress.
 
 Examples of Test documentation, developed by me:
