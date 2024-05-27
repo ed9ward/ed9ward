@@ -6,8 +6,7 @@ I am a QA engineer with 1,5 years of experience in manual quality assurance in b
 
 Examples of Test documentation, developed by me:
 * [Test Cases](https://docs.google.com/spreadsheets/d/1d0bcC_fUO1M68Wyex1LIb1906ZA9y1XNz-NxeFIj_ZI/edit?usp=drive_link), [Test Cases 2](https://docs.google.com/spreadsheets/d/1lgzOytztOcFKiNt7UBXOaKaRaYnuxrM3kdY-YYKnL9s/edit?usp=sharing) ([Requirements](https://drive.google.com/drive/folders/1rRYm07tnUg7KK-6XjHTCwmKz-AaMY3Ab?usp=drive_link), [AUT](https://gettop.us))
-* [Checklist](https://docs.google.com/spreadsheets/d/1Mnh6r4ruXZr91rlJEgtdli6kGAY6WU0la54S7gczOgw/edit?usp=drive_link), [Checklist 2](https://docs.google.com/spreadsheets/d/1DbBC5-etBD55L_6lM5vYwtHq9UjXzYJA8KDt9r-ATtA/edit?usp=sharing)
-* [Checklist based on requirements only](https://docs.google.com/spreadsheets/d/1OITI_gE7iFne9Z8pmAuPOEy4xzMewlR22lErqrydUFM/edit?usp=sharing)
+* [Checklist ](https://docs.google.com/spreadsheets/d/1DbBC5-etBD55L_6lM5vYwtHq9UjXzYJA8KDt9r-ATtA/edit?usp=sharing), [Checklist 2](https://docs.google.com/spreadsheets/d/1OITI_gE7iFne9Z8pmAuPOEy4xzMewlR22lErqrydUFM/edit?usp=sharing)
 * [Requirements testing](https://docs.google.com/document/d/1AnylPfXxqWqNMDd264xGh8iGiQmqBj4njWTORRbhn_Y/edit?usp=drive_link)
 * [Mobile app testing - BudgetBytes](https://docs.google.com/spreadsheets/d/1pxOCADgXO5JyIe3Y5ugSRw9FPp3b9u6RtThQsmXBb-o/edit?usp=drive_link) (Exploratory, 1 hour)
 * [Movile app testing - Slack](https://docs.google.com/spreadsheets/d/1M-1R3z4PM2-yM-WN6j1xa_UjFkS6CCLhkeeULeRvGRo/edit?usp=sharing) (Exploratory, 1 hour)
