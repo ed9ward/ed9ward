@@ -23,4 +23,5 @@ Examples of Test documentation, developed by me:
 * [API testing automation](https://gitlab.com/ed9ward1/api-testing.git) (JS\TS, Chai, Mocha)
 * [Rozetka Test Task](https://docs.google.com/document/d/16dnHhtgyUU-eOSBJHlpwcyzwDWaHdX5TyDXbJ_WuMpc/edit?usp=sharing) (Python script, DevTools, SQL, Checklist)
 * [Test documentation from courses](https://docs.google.com/spreadsheets/d/13Jsn1_ZL3oUnIeQj5S08C9xGaRN8UUsj/edit#gid=736304391)
-  
+
+//My CV on Google Drive//
