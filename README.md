@@ -2,11 +2,13 @@
 
 My name is Edward.
 
-🎓 I have a Master's degree in Computer Science in Ecology.
+💻 I am a QA engineer with 4+ years of experience in QA in both outsourcing and product companies.
 
-💻 I am a QA engineer with 2 years of experience in QA in both outsourcing and product companies.
+🔭 For the last year, I have studied and worked in the AQA field using Cypress + JS.
 
-🔭 For the last half a year I have studied and worked in the AQA field using Cypress.
+🎓 I have a Master's degree in Computer Science.
+
+* [My CV on Google Drive](https://drive.google.com/file/d/1XIGUIKvK6_abwo4dAvHSsoDg4nKz6Nkd/view?usp=sharing)
 
 Examples of Test documentation, developed by me:
 * [Test Cases](https://docs.google.com/spreadsheets/d/1d0bcC_fUO1M68Wyex1LIb1906ZA9y1XNz-NxeFIj_ZI/edit?usp=drive_link), [Test Cases 2](https://docs.google.com/spreadsheets/d/1lgzOytztOcFKiNt7UBXOaKaRaYnuxrM3kdY-YYKnL9s/edit?usp=sharing) ([Requirements](https://drive.google.com/drive/folders/1rRYm07tnUg7KK-6XjHTCwmKz-AaMY3Ab?usp=drive_link), [AUT](https://gettop.us))
@@ -23,5 +25,3 @@ Examples of Test documentation, developed by me:
 * [API testing automation](https://gitlab.com/ed9ward1/api-testing.git) (JS\TS, Chai, Mocha)
 * [Rozetka Test Task](https://docs.google.com/document/d/16dnHhtgyUU-eOSBJHlpwcyzwDWaHdX5TyDXbJ_WuMpc/edit?usp=sharing) (Python script, DevTools, SQL, Checklist)
 * [Test documentation from courses](https://docs.google.com/spreadsheets/d/13Jsn1_ZL3oUnIeQj5S08C9xGaRN8UUsj/edit#gid=736304391)
-
-//My CV on Google Drive//
